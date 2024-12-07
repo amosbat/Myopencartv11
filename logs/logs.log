@@ -1,0 +1,20 @@
+[INFO ] 2024-12-05 22:56:31.004 [main] LoginTest - Chrome setup is complete
+[INFO ] 2024-12-05 22:56:40.883 [main] LoginTest - logged into HomePage
+[INFO ] 2024-12-05 22:56:42.910 [main] LoginTest - validate user login
+[INFO ] 2024-12-06 14:39:21.254 [main] LoginTest - Chrome setup is complete
+[INFO ] 2024-12-06 14:39:29.449 [main] LoginTest - logged into HomePage
+[INFO ] 2024-12-06 14:39:32.020 [main] LoginTest - validate user login
+[INFO ] 2024-12-06 14:45:05.791 [main] LoginTest - Chrome setup is complete
+[INFO ] 2024-12-06 14:45:13.784 [main] LoginTest - logged into HomePage
+[INFO ] 2024-12-06 14:45:16.338 [main] LoginTest - validate user login
+[INFO ] 2024-12-07 13:21:00.799 [main] LoginTest - Chrome setup is complete
+[INFO ] 2024-12-07 13:21:12.061 [main] LoginTest - logged into HomePage
+[INFO ] 2024-12-07 13:21:14.695 [main] LoginTest - validate user login
+[DEBUG] 2024-12-07 13:52:06.284 [main] TestNG - suiteXmlPath: "C:\Users\amosb\eclipse-workspace\Myopencartv11\testng.xml"
+[INFO ] 2024-12-07 13:52:11.523 [main] LoginTest - Chrome setup is complete
+[INFO ] 2024-12-07 13:52:20.909 [main] LoginTest - logged into HomePage
+[INFO ] 2024-12-07 13:52:24.203 [main] LoginTest - validate user login
+[DEBUG] 2024-12-07 14:05:05.400 [main] TestNG - suiteXmlPath: "C:\Users\amosb\eclipse-workspace\Myopencartv11\testng.xml"
+[INFO ] 2024-12-07 14:05:08.754 [main] LoginTest - Chrome setup is complete
+[INFO ] 2024-12-07 14:05:18.099 [main] LoginTest - logged into HomePage
+[INFO ] 2024-12-07 14:05:22.567 [main] LoginTest - validate user login
